@@ -1,0 +1,2 @@
+# SolitaireMinimal
+Spiderette, Spider
